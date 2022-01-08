@@ -6,17 +6,17 @@ Tom and Seth asked me to work with them to process the congressional election re
 
 •	369,711 votes were cast in this election 
 
-•	Votes cast and percentage for each county
-o	Jefferson: 38,855, 10.5 % 
-o	Denver: 306,055, 82.8%
-o	Arapahoe: 24,801, 6.7%
+•	Votes cast and percentage for each county  
+o	Jefferson: 38,855, 10.5 %   
+o	Denver: 306,055, 82.8%  
+o	Arapahoe: 24,801, 6.7%  
 
-•	Denver had the largest voter turnout
+•	Denver had the largest voter turnout  
 
-•	Votes cast and percentage for each candidate
-o	Charles Casper Stockholm: 85,213, 23%
-o	Diana DeGette: 272,892, 73.8%
-o	Raymon Anthony Doane: 11,606, 3.1%
+•	Votes cast and percentage for each candidate  
+o	Charles Casper Stockholm: 85,213, 23%  
+o	Diana DeGette: 272,892, 73.8%  
+o	Raymon Anthony Doane: 11,606, 3.1%  
 
 •	Diana DeGette won with 272,892 votes and 73.8% of the vote
 
