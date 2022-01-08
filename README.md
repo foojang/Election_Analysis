@@ -1,8 +1,9 @@
-**Overview of Election Audit **
+**Overview of Election Audit**
 
 Tom and Seth asked me to work with them to process the congressional election results for three counties Jefferson, Denver, and Arapahoe. We were asked to tally all of the votes and identify the winning candidate and what percentage of the vote each candidate received. After delivering the intimal results the election board also asked that we count he votes for each county and what percentage of the votes came from each county. They also asked to identify the county with the largest voter turnout.
 
 **Election-Audit Results**
+
 •	369,711 votes were cast in this election 
 
 •	Votes cast and percentage for each county
