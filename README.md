@@ -26,17 +26,24 @@ The proved script can be used to tally the votes of any up coming elections to m
 
 Track the winning candidate, vote count and percentage
   winning_candidate = ""
+  
   winning_count = 0
+  
   winning_percentage = 0
 
 Track the largest county and county voter turnout.
+
   county_candidate = ""
+  
   county_count = 0
+  
   county_percentage = 0
   
 This could be expanded to track Types of votes either mail in in person or absentee if the data was added to the csv file 
 Track vote type count and percentage 
 
   Type_vote = ""
+  
   type_count = 0
+  
   type_percentage = 0
