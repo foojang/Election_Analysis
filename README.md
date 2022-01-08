@@ -20,7 +20,7 @@ o	Raymon Anthony Doane: 11,606, 3.1%
 
 •	Diana DeGette won with 272,892 votes and 73.8% of the vote
 
-**Election-Audit Summary **
+**Election-Audit Summary**
 
 The proved script can be used to tally the votes of any up coming elections to make vote results quicker and easier to report. Currently the script can be used to tally county and candidate. With minor code added the script can be used to tally points of data. Below is the current code to track the county and candidate. 
 
