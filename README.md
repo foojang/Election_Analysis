@@ -22,17 +22,20 @@ o	Raymon Anthony Doane: 11,606, 3.1%
 
 **Election-Audit Summary **
 The proved script can be used to tally the votes of any up coming elections to make vote results quicker and easier to report. Currently the script can be used to tally county and candidate. With minor code added the script can be used to tally points of data. Below is the current code to track the county and candidate. 
-# Track the winning candidate, vote count and percentage
+
+Track the winning candidate, vote count and percentage
   winning_candidate = ""
   winning_count = 0
   winning_percentage = 0
 
-# 2: Track the largest county and county voter turnout.
+Track the largest county and county voter turnout.
   county_candidate = ""
   county_count = 0
   county_percentage = 0
+  
 This could be expanded to track Types of votes either mail in in person or absentee if the data was added to the csv file 
 Track vote type count and percentage 
+
   Type_vote = ""
   type_count = 0
   type_percentage = 0
